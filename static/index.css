@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+th {
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+
+table tr td {
+    height: 70px;
+}
+
+.color1 {
+    background-color: blue;
+}
+
+.color1:hover {
+    background-color: cornflowerblue;
+}
+
+.color2 {
+    background-color: red;
+}
+
+.color2:hover {
+    background-color: rgb(207, 69, 97);
+}
